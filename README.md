@@ -6,14 +6,14 @@
 - Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,nodejs,express,mongodb,postgresql,prisma,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux,javascript,nodejs,express,mongodb,java,python" />
   </a>
 </p>
 
 - Tool
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,webstorm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,webstorm,vscode,idea" />
   </a>
 </p>
 
