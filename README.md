@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Yadav</h1>
 <!-- <h3 align="center">A Full Stack Developer</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=29&duration=4998&pause=998&random=false&width=435&lines=Full-Stack+Developer..;Love+To+Learn+New+Stuff..%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&duration=4998&pause=998&random=false&width=435&lines=Full-Stack+Developer..;Love+To+Learn+New+Stuff..%3C3" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva8081&label=Profile%20views&color=0e75b6&style=flat" alt="yshplsngh" /> </p>
 
 
