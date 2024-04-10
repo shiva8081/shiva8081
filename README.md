@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shiva Yadav</h1>
 <!-- <h3 align="center">A Full Stack Developer</h3> -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&duration=4998&pause=998&random=false&width=550&lines=Full-Stack+Developer..;Love+To+Learn+New+Stuffs..<3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&duration=4998&pause=998&random=false&width=600&lines=Full-Stack+Developer..;Love+To+Learn+New+Stuffs..<3" alt="Typing SVG" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva8081&label=Profile%20views&color=0e75b6&style=flat" alt="yshplsngh" /> </p>
 
