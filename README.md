@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Yadav</h1>
 <h3 align="center">A Full Stack Developer</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com/?lines=Full-Stack+developer..;Love To Learn New Stuff..<3](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva8081&label=Profile%20views&color=0e75b6&style=flat" alt="yshplsngh" /> </p>
 
